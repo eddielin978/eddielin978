@@ -3,6 +3,12 @@
 ![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddielin978&show_icons=true&border_radius=10&theme=holi)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddielin978&layout=compact&theme=holi)
 
+### My skills
+<div class="imgs" style="display: flex; flex-direction: row;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="60"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60"  />
+</div>
 <!--
 **eddielin978/eddielin978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
