@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddielin978&show_icons=true&border_radius=10&theme=holi)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddielin978&layout=compact&theme=holi)
+
 <!--
 **eddielin978/eddielin978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
