@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddielin978&show_icons=true&border_radius=10&theme=holi)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddielin978&layout=compact&theme=holi)
 
 ### My skills
