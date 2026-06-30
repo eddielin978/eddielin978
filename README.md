@@ -1,8 +1,8 @@
-## Hey there! 👋
+## Hi, I'm Eddie 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddielin978&layout=compact&theme=holi)
 
-### My skills
+### My skills![](https://komarev.com/ghpvc/?username=eddielin978&style=pixel)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 <!--
 **eddielin978/eddielin978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=eddielin978&style=pixel)
