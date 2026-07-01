@@ -1,6 +1,6 @@
 ## Hi, I'm Eddie 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddielin978&layout=compact&theme=holi)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eddielin978&layout=compact&theme=github_dark)
 
 ### My skills![](https://komarev.com/ghpvc/?username=eddielin978&style=pixel)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
